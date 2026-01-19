@@ -119,9 +119,6 @@ i {
 
     .header h1 {
         font-size: 0.9em;
-        color: #fff;
-        line-height: 1.4;
-        font-weight: 500;
         margin-left: 0;
     }
 
@@ -152,9 +149,6 @@ i {
 
     .header h1 {
         font-size: 0.9em;
-        color: #fff;
-        line-height: 1.4;
-        font-weight: 500;
         margin-left: 0;
     }
     
@@ -172,6 +166,7 @@ i {
         padding: 15px;
     }
 }
+
 
 
 
