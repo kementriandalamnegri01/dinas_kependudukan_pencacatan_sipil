@@ -139,7 +139,7 @@ i {
 /* ========================= */
 @media (max-width: 768px) {
     .content-box {
-        max-width: 98%;
+        max-width: 96%;
         border-radius: 8px;
     }
 
@@ -172,3 +172,4 @@ i {
         padding: 15px;
     }
 }
+
